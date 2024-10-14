@@ -1,0 +1,12 @@
+APScheduler==3.6.3
+cachetools==4.2.2
+certifi==2024.8.30
+greenlet==3.1.1
+python-telegram-bot==13.15
+pytz==2024.2
+setuptools==75.1.0
+six==1.16.0
+SQLAlchemy==2.0.35
+tornado==6.1
+typing_extensions==4.12.2
+tzlocal==5.2
